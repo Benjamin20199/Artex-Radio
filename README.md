@@ -3,7 +3,7 @@
 # Artex Radio 
 [![](https://img.shields.io/discord/1044305778288381985.svg?logo=discord&colorB=7289DA)](https://discord.gg/5gZxrYFm)
 
-Assistance is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by Vexy#3795 !
+Artex Radio is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by Vexy#3795 !
 
 ## Links
 
