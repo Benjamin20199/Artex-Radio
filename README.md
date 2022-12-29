@@ -5,6 +5,10 @@
 
 Artex Radio is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by Vexy#3795 !
 
+## Commandes 
+- Config : `!setlang`
+- Radio :  `!setradio` `!leave`
+- General : `!help`, `!invite` `!stats` `!ping`
 ## Links
 
 *   [Discord](https://discord.gg/5gZxrYFm)
