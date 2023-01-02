@@ -8,7 +8,8 @@ Artex Radio is a Discord bot coded in JavaScript with [Discord.js](https://disco
 ## Commandes 
 - Config : `!setlang`
 - Radio :  `!setradio` `!leave`
-- General : `!help`, `!invite` `!stats` `!ping`
+- General : `!help`, `!invite` `!stats` `!ping` `!credits`
+
 ## Links
 
 *   [Discord](https://discord.gg/5gZxrYFm)
